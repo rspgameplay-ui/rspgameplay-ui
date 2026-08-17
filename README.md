@@ -1,6 +1,6 @@
 <div align="center">
 
-# Renan Pires 👋
+# Renan Pires 
 
 ### Desenvolvedor & Builder | Engenharia de Software · Automação · UI/UX
 
