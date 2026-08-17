@@ -1,8 +1,8 @@
 <div align="center">
 
-# Olá, eu sou o RSP 👋
+# Renan Pires 👋
 
-### Software Engineer em construção, focado em transformar ideias em produtos digitais bem resolvidos.
+### Desenvolvedor & Builder | Engenharia de Software · Automação · UI/UX
 
 <p>
   <a href="https://github.com/rspgameplay-ui">
@@ -16,42 +16,59 @@
 
 ## Sobre mim
 
-Gosto de software que seja tão sólido por dentro quanto agradável de usar por fora. Meu foco é evoluir como engenheiro, combinando pensamento estruturado, atenção aos detalhes e vontade de construir experiências digitais úteis.
+Graduando em Engenharia de Software pela UNDB e estagiário de desenvolvimento na Defensoria Pública do Maranhão. Construo soluções digitais que unem automação, integração de sistemas e boas experiências de uso.
 
-Aqui você encontra projetos, experimentos e aprendizados que refletem essa jornada — do código à interface, da ideia à entrega.
+Meu diferencial está na ponte entre design e tecnologia: transformo fluxos complexos em interfaces claras e soluções que fazem sentido para quem usa.
 
-## Como eu penso software
+## Stack em evolução
 
-- **Clareza antes de complexidade** — soluções fáceis de entender, manter e evoluir.
-- **Experiência importa** — tecnologia deve servir pessoas, não apenas requisitos.
-- **Evolução contínua** — cada projeto é uma oportunidade de aprender e melhorar.
-- **Qualidade é processo** — bons resultados vêm de boas decisões, revisão e consistência.
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=222" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+</p>
+
+## Experiência em foco
+
+- **Estagiário de Desenvolvimento · Defensoria Pública-MA**  
+  Desenvolvimento e melhoria de sistemas internos, automação de processos com n8n e integrações via API.
+
+- **Desenvolvedor de Automações e Sistemas**  
+  Soluções sob demanda com integrações, painéis web, automações de processos e bancos de dados PostgreSQL/Supabase.
+
+- **UI/UX & Desenvolvimento · Software House UNDB**  
+  Conexão entre design e front-end: prototipagem no Figma, construção de interfaces e colaboração com times ágeis.
 
 ## Atualmente
 
 ```text
-Construindo fundamentos sólidos em engenharia de software.
-Transformando prática em projetos com propósito.
-Buscando evoluir em código, arquitetura e experiência de produto.
+Automatizando fluxos e conectando sistemas por meio de APIs.
+Construindo aplicações web com foco em clareza, eficiência e experiência.
+Evoluindo em arquitetura de software, banco de dados e engenharia de produto.
 ```
 
-## Projetos em destaque
+## Como eu construo
 
-> Em breve: projetos selecionados com contexto, decisões técnicas e resultados.
-
-<!--
-Quando tiver projetos públicos, substitua esta seção por cartões como:
-
-### [Nome do projeto](https://github.com/rspgameplay-ui/nome-do-repositorio)
-Breve descrição do problema resolvido, sua contribuição e as tecnologias usadas.
--->
+- **Produto antes de ferramenta** — tecnologia só é boa quando resolve um problema real.
+- **Design com propósito** — interfaces intuitivas são parte da qualidade técnica.
+- **Automação com impacto** — processos melhores liberam tempo para o que importa.
+- **Aprendizado contínuo** — cada entrega é uma oportunidade de evoluir.
 
 ## Vamos conectar
 
-Se você quer trocar ideias sobre tecnologia, produto ou construção de software, fique à vontade para abrir uma issue em algum projeto.
+Aberto a conversar sobre desenvolvimento de software, automação, produtos digitais e boas experiências de uso.
 
 <div align="center">
 
-_Construindo com curiosidade, intenção e evolução constante._
+_Transformando processos em produtos digitais mais simples e eficientes._
 
 </div>
