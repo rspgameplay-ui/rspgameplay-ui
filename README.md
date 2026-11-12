@@ -1,28 +1,6 @@
-```text
-                                           renan@pires
-              ...........                  ────────────────────────────────────────────
-           .................
-         ....:=*####*+-:......             Role ....... Desenvolvedor & Builder
-        ...*@@@@@@@@@#*+-:....             Focus ...... Eng. Software · Automação · UI/UX
-        ..*@%%##%%%%%%#+-.:=..             Study ...... Eng. de Software @ UNDB
-        .-%####*#%@%@#-.:..+*.             Work ....... Estagiário @ Defensoria Pública-MA
-        :#@%%#*+#%%@#.:+=:.-@:             Location ... Maranhão, Brasil
-        +@%@%%##%%%@#.:+=::-%:
-       #@%%@@@@@@%*%=.:+#+-*%:.            Languages .. JavaScript, TypeScript, Python
-       *@@@@@@%%%%%%#+===.:#+..            Web ........ HTML, CSS, Node.js, React, Next.js
-        -=#@%%%%###*+-....=%-:             Data ....... PostgreSQL, Supabase
-          -%%@@@@@%*+-....=+               Tools ...... n8n, Figma
-           %##%%@@@##-.:--:
-          -%@%#**+-::..:.*                 ── Contact ─────────────────────────────────
-         ...=#@@@#=......=                 GitHub ..... rspgameplay-ui
-     ..........-*%@*:......                Email ...... rspgameplay@gmail.com
-..................:-.........              LinkedIn ... in/renansilvapires
-................-:.:...............
-................+#=-....................   ── GitHub Stats ────────────────────────────
-................:%++....................   Repos ...... 14     Stars ...... 1
-.................=*#=...................   Followers .. 5      Following .. 9
-..................:-=:..................
-```
+<p align="center"><img src="assets/matrix-banner.svg" width="100%" alt="Renan Pires"/></p>
+
+<p align="center"><img src="assets/terminal.svg" width="100%" alt="renan@pires neofetch"/></p>
 
 ```text
 renan@pires:~$ cat sobre_mim.txt
@@ -84,3 +62,5 @@ renan@pires:~$ echo $CONTATO
 ```
 
 [LinkedIn](https://www.linkedin.com/in/renansilvapires/) · [Email](mailto:rspgameplay@gmail.com) · [GitHub](https://github.com/rspgameplay-ui)
+
+<p align="center"><img src="assets/matrix-footer.svg" width="100%" alt="matrix"/></p>
