@@ -12,5 +12,4 @@
 <text x="24" y="120" xml:space="preserve" class="a" style="opacity:0;animation:in .4s 1.96s forwards">  03  Automação com impacto         processos melhores liberam tempo</text>
 <text x="24" y="138" xml:space="preserve" class="a" style="opacity:0;animation:in .4s 2.08s forwards">  04  Aprendizado contínuo          cada entrega é chance de evoluir</text>
 <text x="24" y="156" class="a" style="opacity:0;animation:in .1s 2.20s forwards">█<animate attributeName="fill-opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/></text>
-<rect class="scan" x="1" width="764" height="40" fill="#00ff41" opacity=".05"/>
 </svg>
