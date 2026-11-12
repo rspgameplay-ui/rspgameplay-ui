@@ -1,14 +1,39 @@
 <div align="center">
 
-# Renan Pires 
+```text
+                   --=#*#*+***##
+               ------=####***#%#*+*
+             ======++#%@@%##%@@%#*#%**
+           %%%%%%%%%%@@@@@@%@%%####%#*%%
+         @%%@@@@@@@@@@@@%%%%%#%%%%%%%%%%#             renanpires@github ───────────────────────────────────────.-
+        ++*@@@@@@@@%%@@%%%%%##%%%%%%%@##*#            . Name: ......................... Renan Pires
+       -+#%@@@@@%##++=======+++*#%%%@%##*%@@          . Role: ......................... Desenvolvedor & Builder
+      =+@@@@@@@%#*#*---:::::::-=*##%@%%%*%@@#         . Focus: ........................ Eng. de Software · Automação · UI/UX
+     *+#@@@@@@%*+++=--:::::::..:::-+%%#%#@@@*         . Education: .................... Eng. de Software @ UNDB
+    ***%@@@%#*++==----::::::::::::::+%%%%%@@##        . Work: ......................... Estagiário @ Defensoria Pública-MA
+    *+#%@@#++**+=----:::::::::::::::-*#%%#%%@%%       . Location: ..................... Maranhão, Brasil
+   %%#%@@#+*####*+=-:::::::-=====-:::-*%%%%@@%%       .
+   %%%%%%***=----==--::::::-------=-::+%%%@%%%%       - Languages.Programming: ........ JavaScript, TypeScript, Python
+   +******+===--:--==--::::::::....--:+%@@@@@%@       - Languages.Computer: ........... HTML, CSS, SQL, JSON
+   -----=++**+**=-==+=-:..:-=++-::::::+@@@@@@@%#      - Frameworks: ................... Node.js, React, Next.js
+  ---=-=+++++=++==++++-::::-=++=-=-::-*#@@@@@#+=      - Data/Tools: ................... PostgreSQL, Supabase, n8n, Figma
+   ===-=+++===--==+++=-::::::::::::::-:-%@@%#***      - Languages.Real: ............... Português
+   ==--+++========+++-:::::::::::.:::-:-#*+==++       .
+   @@@%*+++======+=+*=:-=-:-::::..:::----------       - Contact ───────────────────────────────────────────────.-
+   @@@@*+++=======+==--::--:::::.::::--*+------       . GitHub: ....................... rspgameplay-ui
+    @@@%*++====++=+=----::::::::::::::-#*+++++        . Email: ........................ rspgameplay@gmail.com
+    @@@@%*++=++++++=+===--:..:::::::-+****####        . LinkedIn: ..................... in/renansilvapires
+     @@@@*++++++**++=======-::::::::+########         .
+      @@@%*+++++++=====----::::::::-+*****##          - GitHub Stats ──────────────────────────────────────────.-
+       @@@%*+++++==--==-:::::::-----+-===+#           . Repos: .... 14 | Stars: ........ 1
+        @@@#+++++=====---:::::----::*+-+=+            . Followers: 5  | Following: .... 9
+          #++++++==--=-:::::-----:::+=-#
+            +++*++=--==---------::::-.+
+              ++*+++++====-----:::::
+                 ++++===------:::
 
-### Desenvolvedor & Builder | Engenharia de Software · Automação · UI/UX
 
-<p>
-  <a href="https://github.com/rspgameplay-ui">
-    <img src="https://img.shields.io/badge/GitHub-rspgameplay--ui-181717?style=for-the-badge&logo=github" alt="GitHub" />
-  </a>
-</p>
+```
 
 </div>
 
@@ -66,6 +91,11 @@ Evoluindo em arquitetura de software, banco de dados e engenharia de produto.
 ## Vamos conectar
 
 Aberto a conversar sobre desenvolvimento de software, automação, produtos digitais e boas experiências de uso.
+
+<p>
+  <a href="https://www.linkedin.com/in/renansilvapires/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:rspgameplay@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
 
 <div align="center">
 
