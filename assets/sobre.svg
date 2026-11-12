@@ -16,5 +16,4 @@
 <text x="24" y="192" xml:space="preserve" class="i" style="opacity:0;animation:in .4s 2.44s forwards">  fluxos complexos em interfaces claras e soluções que fazem sentido</text>
 <text x="24" y="210" xml:space="preserve" class="i" style="opacity:0;animation:in .4s 2.56s forwards">  para quem usa.</text>
 <text x="24" y="228" class="a" style="opacity:0;animation:in .1s 2.68s forwards">█<animate attributeName="fill-opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/></text>
-<rect class="scan" x="1" width="764" height="40" fill="#00ff41" opacity=".05"/>
 </svg>
