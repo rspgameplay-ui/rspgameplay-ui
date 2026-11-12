@@ -9,5 +9,4 @@
 <text x="24" y="66" xml:space="preserve" class="i" style="opacity:0;animation:in .4s 1.60s forwards"></text>
 <text x="24" y="84" xml:space="preserve" class="i" style="opacity:0;animation:in .4s 1.72s forwards">  Aberto a conversar sobre software, automação e produtos digitais.</text>
 <text x="24" y="102" class="a" style="opacity:0;animation:in .1s 1.84s forwards">█<animate attributeName="fill-opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/></text>
-<rect class="scan" x="1" width="764" height="40" fill="#00ff41" opacity=".05"/>
 </svg>
